@@ -38,7 +38,7 @@ function Weather() {
 
   var date = new Date();
 
-  console.log(cityData);
+  // console.log(cityData);
 
   const search = () => {
     setTimeout(() => {
